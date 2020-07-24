@@ -1,6 +1,6 @@
 Windows Registry Editor Version 5.00
 
-[HKEY_CURRENT_USER\Software\Simontatham\PuTTY\Sessions\TTI,%20Inc.%20Putty%20Template]
+[HKEY_CURRENT_USER\Software\Simontatham\PuTTY\Sessions\PuTTY-Template]
 "Present"=dword:00000001
 "HostName"=""
 "LogFileName"="putty.log"
@@ -94,7 +94,7 @@ Windows Registry Editor Version 5.00
 "WindowBorder"=dword:00000001
 "CurType"=dword:00000000
 "BlinkCur"=dword:00000000
-"Beep"=dword:00000001
+"Beep"=dword:00000000
 "BeepInd"=dword:00000000
 "BellWaveFile"=""
 "BellOverload"=dword:00000001
@@ -109,10 +109,10 @@ Windows Registry Editor Version 5.00
 "DisableArabicShaping"=dword:00000000
 "DisableBidi"=dword:00000000
 "WinNameAlways"=dword:00000001
-"WinTitle"="TTI, Inc. SSH Session"
+"WinTitle"="Krasses SSH
 "TermWidth"=dword:0000008c
 "TermHeight"=dword:00000028
-"Font"="Courier New"
+"Font"="GoMono NF"
 "FontIsBold"=dword:00000000
 "FontCharSet"=dword:00000000
 "FontHeight"=dword:0000000a
