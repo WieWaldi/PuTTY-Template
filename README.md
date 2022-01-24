@@ -7,6 +7,7 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org)
 
 <br />
+
 ## Motivation
 To have putty show fancy glancy terminals. Simple to install and handle.
 
