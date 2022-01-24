@@ -16,3 +16,6 @@ registry file to your computer and install it by double clicking. In addition to
 support glyphs you have to install the related fonts.
 
 [![putty](https://github.com/WieWaldi/PuTTY-Template/raw/master/img/putty.png)](#features)
+
+ ### Links/URLs/Credits
+ [NERD FONTS](https://github.com/ryanoasis/nerd-fonts) - Nerd Fonts
